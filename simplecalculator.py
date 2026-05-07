@@ -1,11 +1,12 @@
 print("_________Simple Calculator__________")
 
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
+#Enter the two numbers
+a = float(input("Enter first number:"))
+b = float(input("Enter second number:"))
 
 #choose the operator 
 print("Choose operation: +, -, *, /")
-op = input("Enter operator: ")
+op = input("Enter operator:")
 
 #Here the condition will start
 if op == '+':
@@ -21,4 +22,5 @@ elif op == '/':
         print("Cannot divide by zero")
 else:
     print("Invalid operator")
+    
 print("Thank you")
