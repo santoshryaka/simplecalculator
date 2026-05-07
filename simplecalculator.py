@@ -7,6 +7,7 @@ b = float(input("Enter second number: "))
 print("Choose operation: +, -, *, /")
 op = input("Enter operator: ")
 
+#Here the condition will start
 if op == '+':
     print("Result:", a + b)
 elif op == '-':
@@ -20,3 +21,4 @@ elif op == '/':
         print("Cannot divide by zero")
 else:
     print("Invalid operator")
+print("Thank you")
