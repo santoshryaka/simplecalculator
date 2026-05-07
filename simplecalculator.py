@@ -1,14 +1,15 @@
+#It's simple calculator 
 print("_________Simple Calculator__________")
 
 #Enter the two numbers
 a = float(input("Enter first number:"))
 b = float(input("Enter second number:"))
 
-#choose the operator 
+#Choose the operator 
 print("Choose operation: +, -, *, /")
 op = input("Enter operator:")
 
-#Here the condition will start
+#Here the condition will start based on operator
 if op == '+':
     print("Result:", a + b)
 elif op == '-':
@@ -23,4 +24,4 @@ elif op == '/':
 else:
     print("Invalid operator")
     
-print("Thank you")
+print("_______________Thank you______________")
