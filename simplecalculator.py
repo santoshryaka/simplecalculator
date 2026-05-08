@@ -20,7 +20,7 @@ elif op == '/':
     if b != 0:
         print("Result:",a / b)
     else:
-        print("Cannot divide by zero")
+        print("zero division error")
 else:
     print("Invalid operator")
     
