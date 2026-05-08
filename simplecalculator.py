@@ -1,5 +1,5 @@
 #It's simple calculator 
-print("_________Simple Calculator__________")
+print("_________Simple Calculator_________")
 
 #Enter the two numbers
 a = float(input("Enter first number:"))
@@ -24,4 +24,4 @@ elif op == '/':
 else:
     print("Invalid operator")
     
-print("____________Thank you____________")
+print("__________Thank you_________")
