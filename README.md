@@ -1,7 +1,7 @@
 # simplecalculator(python)
 -basic calculator
 
-## Description
+## Description about arithmetic operators
 This is a basic Python program that performs simple arithmetic operations:
 - Addition
 - Subtraction
