@@ -1,4 +1,4 @@
-#It's simple calculator 
+#Its simple calculator 
 print("_________Simple Calculator_________")
 
 #Enter the two numbers
