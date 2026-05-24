@@ -1,4 +1,4 @@
-#simple calculator 
+#simple calculator using a python 
 print("_________Simple Calculator_________")
 
 #Enter the two numbers
