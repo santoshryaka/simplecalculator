@@ -15,7 +15,7 @@ It takes two numbers and an operator as input from the user and displays the res
 - Easy and beginner-friendly  
 - Command-line based program  
 
-#### How It Works
+### How it works based on input
 1. User enters two numbers  
 2. User selects an operator (`+`, `-`, `*`, `/`)
 3. Program checks the operator and performs calculation
