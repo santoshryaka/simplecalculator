@@ -7,7 +7,7 @@ This is a basic Python program that performs simple arithmetic operations:
 - Subtraction
 - Multiplication
 - Division  
-It takes two numbers and an operator as input from the user and displays the result.
+-It takes two numbers and an operator as input from the user and displays the result.
 
 ### Calculator Features
 - Supports `+`, `-`, `*`, `/`
