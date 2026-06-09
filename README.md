@@ -1,5 +1,5 @@
 # simplecalculator(python)
----basic calculator--
+--basic calculator--
 
 ## Description about arithmetic operators
 This is a basic Python program that performs simple arithmetic operations:
