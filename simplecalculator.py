@@ -1,5 +1,5 @@
 #simple calculator using python 
-print("_______Simple Calculator_______")
+print("Simple Calculator")
 
 #Enter the two numbers
 a = float(input("Enter first number:"))
