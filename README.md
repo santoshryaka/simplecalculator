@@ -19,4 +19,5 @@ This is a basic Python program that performs simple arithmetic operations:
 1. User enters two numbers  
 2. User selects an operator (`+`, `-`, `*`, `/`)
 3. Program checks the operator and performs calculation
-4. Displays the output
+4. Displays the result
+   
